@@ -43,7 +43,11 @@
       <workItem from="1603565053244" duration="4671000" />
       <workItem from="1603570384810" duration="292000" />
       <workItem from="1603570847128" duration="421000" />
-      <workItem from="1603576053336" duration="4037000" />
+      <workItem from="1603576053336" duration="4804000" />
+      <workItem from="1603645232803" duration="47000" />
+      <workItem from="1603645318994" duration="815000" />
+      <workItem from="1603646414883" duration="1405000" />
+      <workItem from="1603647842630" duration="134000" />
     </task>
     <servers />
   </component>
@@ -55,6 +59,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603507511650" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603645262661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1603645262661" />
     <state x="-65" y="330" key="#xdebugger.XInspectDialog" timestamp="1603576715207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
